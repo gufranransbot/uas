@@ -1,0 +1,71 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Jerapah Kelinci Dan Kupukupu</string>
+    <string name="galery">jerapah_kelinci_dan_kupukupu_pedia</string>
+    <string name="tentang">Tentang</string>
+    <string name="jerapah">Ras Jerapah</string>
+    <string name="Kelinci">Ras Kelinci</string>
+    <string name="Kupukupu">Ras Kupukupu</string>
+    <string name="jerapah_list_title">Daftar Ras Jerapah</string>
+    <string name="kelinci_list_title">Daftar Ras Kelinci</string>
+    <string name="kupukupu_list_title">Daftar Ras Kupukupu</string>
+    <string name="pilih_gambar">tekan_gambar_untuk_membuka_galeri</string>
+    <string name="jenis_hewan">Jenis Hewan</string>
+    <string name="asal">Asal</string>
+    <string name="deskripsi_hewan">Deskripsi hewan</string>
+
+
+    <string name="nama">NAMA</string>
+    <string name="nim">NIM</string>
+    <string name="prodi">PRODI</string>
+    <string name="sistem_informasi">SISTEM INFORMASI</string>
+    <string name="hobi">HOBI</string>
+    <string name="isi_hobi">jalan_memancing</string>
+    //Data Kupukupu
+    <string name="antheraea_mylitta_nama">Antheraea Mylitta</string>
+    <string name="antheraea_mylitta_asal">Brasil</string>
+    <string name="antheraea_mylitta_deskripsi">Antheraea Mylitta adalah salah satu kupukupu tercantik di dunia</string>
+    <string name="kupukupu_silvery_blue_nama">kupukupu_Silvery_Blue</string>
+    <string name="kupukupu_silvery_blue_asal">canada</string>
+    <string name="kupukupu_silvery_blue_deskripsi">"Spesies asli Kanada ini suka mengambil mineral dari tanah yang basah"</string>
+    <string name="kupukupu_sayap_peri_nama">Kupukupu Sayap Peri</string>
+    <string name="kupukupu_sayap_peri_asal">indonesia</string>
+    <string name="kupukupu_sayap_peri_deskripsi">bisa ditemukan di beberapa wilayah di Papua</string>
+    <string name="banded_orange_nama">Banded_Orange</string>
+    <string name="banded_orange_asal">sulawesi</string>
+    <string name="banded_orange_deskripsi">adalah spesies kupu-kupu langka asal Brasil yang bisa menyerap nutrisi dari lumpur</string>
+
+    //Data Jerapah
+    <string name="giraffa_camelopardalis_nama">Giraffa_camelopardalis</string>
+    <string name="giraffa_camelopardalis_asal">Afrika_utara</string>
+    <string name="giraffa_camelopardalis_deskripsi">mamalia berkuku genap endemik afrika dan merupakan spesies hewan tertinggi yang hidup di darat</string>
+    <string name="reticulated_giraffe_nama">Reticulated_giraffe</string>
+    <string name="reticulated_giraffe_asal">Ethopia_selatan</string>
+    <string name="reticulated_giraffe_deskripsi">dapat kita kenali dari warna kulitnya yang berwarna coklat muda kemerah-merahan,serta garis putih terang membentuk pola seperti jala yang besar mengelilingi tubuhnya</string>
+    <string name="southern_giraffe_nama">Southern_giraffe</string>
+    <string name="southern_giraffe_asal">afrika_selatan</string>
+    <string name="southern_giraffe_deskripsi">Jerapah selatan memiliki bintik bintik bulat atau bercat, beberapa dengan ekstensi seperti bintang di latar belakang cokelat muda, mengalir ke kuku</string>
+    <string name="masai_giraffe_nama">Masai_giraffe</string>
+    <string name="masai_giraffe_asal">afrika_timur</string>
+    <string name="masai_giraffe_diskripsi">Jerapah Masai dapat ditemukan di Kenya tengah dan selatan dan di Tanzania. Ini memiliki bercak khas, tidak teratur, bergerigi, seperti bintang yang memanjang kuku</string>
+
+    //Data Kelinci
+    <string name="netherland_dwarf_nama">netherland_dwarf</string>
+    <string name="netherland_dwarf_asal">Belanda</string>
+    <string name="netherland_dwarf_diskripsi">kelinci yang berasal dari belanda dengan berat 1,1-2,5 pon,Dwarf belanda adalah satu ras kelinci terkecil</string>
+    <string name="orictolagus_cuniculus_nama">orictolagus_cuniculus</string>
+    <string name="orictolagus_cuniculus_asal">eropa</string>
+    <string name="orictolagus_cuniculus_diskripsi">kelinci orictolagus cuniculus juga disebut kelinci eropa atau kelinci domestik adalah satu satunya spesies dalam genusnya</string>
+    <string name="holland_lop_nama">holland_lop</string>
+    <string name="holland_lop_asal">Belanda</string>
+    <string name="holland_lop_diskripsi">kelinci jenis holland lop adalah kelinci yang independent dan playfull</string>
+    <string name="mini_lop_nama">mini_lop</string>
+    <string name="mini_lop_asal">jerman</string>
+    <string name="mini_lop_diskripsi">Adalah jenis kelinci domestik yang di akui oleh american rabbit association</string>
+    <string name="raksasa_nama">raksasa</string>
+    <string name="raksasa_asal">belgia</string>
+    <string name="raksasa_diskripsi">jenis kelinci domestik yang sangat besar,biasanya dianggap sebagai jenis terbesar dari spesiesnya</string>
+    <string name="rex_nama">rex</string>
+    <string name="rex_asal">prancis</string>
+    <string name="rex_diskripsi">kelinci ini mempunyai tubuh yang besar,telinga yang tegak,dan ciri khas yang menjadikan kelinci rex ini di sukai adalah bulunya yang seperti karpet</string>
+    <string name="notifikasi">notifikasi</string>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gifraffe Rabbit And Butterflay</string>
+    <string name="galery">Giraffle_Rabbit_and_Butterflay_pedia</string>
+    <string name="tentang">About</string>
+    <string name="notifikasi">Notification</string>
+    <string name="jerapah">Race Giraffe</string>
+    <string name="Kelinci">Race Rabbit</string>
+    <string name="Kupukupu">Race Butterflay</string>
+    <string name="jerapah_list_title">Giraffe race list</string>
+    <string name="kelinci_list_title">Rabbit Race List</string>
+    <string name="kupukupu_list_title">Butterflay List</string>
+    <string name="pilih_gambar">tap on picture to open gallery</string>
+    <string name="jenis_hewan">Animal Type</string>
+    <string name="asal">From</string>
+    <string name="deskripsi_hewan">Animal Desciption</string>
+
+    <string name="nama">Name</string>
+    <string name="nim">Nim</string>
+    <string name="sistem_informasi">Information System</string>
+    <string name="prodi">Major</string>
+    <string name="hobi">Hobby</string>
+    <string name="isi_hobi">Traveling Fishing</string>
+    <!--    kupukupu-->
+    <string name="antheraea_mylitta_nama">Antheraea Mylitta</string>
+    <string name="antheraea_mylitta_asal">Brasil</string>
+    <string name="antheraea_mylitta_deskripsi">Atheraea Mylitta is one of the most beautiful butterflies in the word</string>
+    <string name="kupukupu_silvery_blue_nama">Butterflay_Silvery_Blue</string>
+    <string name="kupukupu_silvery_blue_asal">canada</string>
+    <string name="kupukupu_silvery_blue_deskripsi">this canadial native species likes to extract minerals from wet soil</string>
+    <string name="kupukupu_sayap_peri_nama">fairy wings butterflay</string>
+    <string name="kupukupu_sayap_peri_asal">indonesia</string>
+    <string name="kupukupu_sayap_peri_deskripsi">can be found in several areas in papua</string>
+    <string name="banded_orange_nama">Banded_Orange</string>
+    <string name="banded_orange_asal">Sulawesi</string>
+    <string name="banded_orange_deskripsi">a rare species of butterflay from brazil that can absord nutrients from mud</string>
+    //Jerapah
+    <string name="giraffa_camelopardalis_nama">Gifraffa_camelopasrdalis</string>
+    <string name="giraffa_camelopardalis_asal">Afrika_utara</string>
+    <string name="giraffa_camelopardalis_deskripsi">Even-toed ungulates are endemic to Africa and are the tallest animal species that live on land</string>
+    <string name="reticulated_giraffe_nama">Reticulated_giraffe</string>
+    <string name="reticulated_giraffe_asal">Ethopia_selatan</string>
+    <string name="reticulated_giraffe_deskripsi">we can recognize it from the color of its skin which is reddish brown in color, and bright white lines form a large net-like pattern around its body.</string>
+    <string name="southern_giraffe_nama">Southern_giraffe</string>
+    <string name="southern_giraffe_asal">afrika_selatan</string>
+    <string name="southern_giraffe_deskripsi">Southern giraffes have rounded or mottled spots, some with star-like extensions on a light brown background, running down the hooves</string>
+    <string name="masai_giraffe_nama">Masai_giraffe</string>
+    <string name="masai_giraffe_asal">afrika_timur</string>
+    <string name="masai_giraffe_diskripsi">"The Masai giraffe can be found in central and southern Kenya and in Tanzania. It has distinctive, irregular, jagged, star-like patches that extend to the nail  "</string>
+    //kelinci
+    <string name="netherland_dwarf_nama">netherland_dwarf</string>
+    <string name="netherland_dwarf_asal">Belanda</string>
+    <string name="netherland_dwarf_diskripsi">Rabbit originating from the Netherlands weighing 1.1-2.5 pounds, the Dutch Dwarf is one of the smallest rabbit breeds</string>
+    <string name="orictolagus_cuniculus_nama">orictolagus_cuniculus</string>
+    <string name="orictolagus_cuniculus_asal">eropa</string>
+    <string name="orictolagus_cuniculus_diskripsi">The rabbit Orictolagus cuniculus also called the European rabbit or the domestic rabbit is the only species in its genus</string>
+    <string name="holland_lop_nama">holland_lop</string>
+    <string name="holland_lop_asal">Belanda</string>
+    <string name="holland_lop_diskripsi">"Holland Lop rabbits are independent and playful rabbits  "</string>
+    <string name="mini_lop_nama">mini_lop</string>
+    <string name="mini_lop_asal">jerman</string>
+    <string name="mini_lop_diskripsi">"Is a type of domestic rabbit that is recognized by the American Rabbit Association  "</string>
+    <string name="raksasa_nama">Giant</string>
+    <string name="raksasa_asal">belgia</string>
+    <string name="raksasa_diskripsi">"a very large breed of domestic rabbit, usually considered the largest breed of its species  "</string>
+    <string name="rex_nama">rex</string>
+    <string name="rex_asal">prancis</string>
+    <string name="rex_diskripsi">This rabbit has a large body, erect ears, and the characteristic that makes this Rex rabbit preferred is its carpet-like fur.</string>
+    <string name="hoby">Traveling and Fishing</string>
+</resources>

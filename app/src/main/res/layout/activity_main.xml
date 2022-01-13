@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/black"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="24dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:text="@string/galery"
+        android:textColor="@color/black"
+        android:textSize="29sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/btn_buka_ras_kupukupu"
+            android:layout_width="0dp"
+            android:layout_height="150dp"
+            android:layout_margin="8dp"
+            android:layout_weight="1"
+            android:padding="16dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/kupukupu_banded_orange" />
+
+        <ImageButton
+            android:id="@+id/btn_buka_ras_jerapah"
+            android:layout_width="0dp"
+            android:layout_height="150dp"
+            android:layout_margin="8dp"
+            android:layout_weight="1"
+            android:padding="16dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/jerapah_giraffa_camelopardalis" />
+
+        <ImageButton
+            android:id="@+id/btn_buka_ras_kelinci"
+            android:layout_width="0dp"
+            android:layout_height="150dp"
+            android:layout_margin="8dp"
+            android:layout_weight="1"
+            android:padding="16dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/kelinci_netherland_dwarf" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:text="@string/pilih_gambar"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btn_profil"
+        android:text="My_profil" />
+
+
+</LinearLayout>
