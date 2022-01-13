@@ -1,1 +1,1 @@
-# uas aplikasi mmultibahasa
+# UAS aplikasi multibahasa
